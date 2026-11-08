@@ -1,0 +1,6 @@
+{
+  "name": "SuperMate: Desafío de Matemáticas",
+  "description": "Aplicación interactiva y accesible con lectura por voz para niños de 7 años. Repaso completo de los contenidos de la evaluación escolar: dictado hasta el 30, secuencias y patrones, unidades y decenas con bloques base 10, conteo, orden de números y resolución de problemas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
